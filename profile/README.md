@@ -1,6 +1,6 @@
 # Openscape Community
 
-The Openscape Comunity is formed to continue the work on Soundscape, the open sourced navigation and wayfinding app from Microsoft Research.
+The Openscape Comunity is formed to continue the work on Soundscape, the open sourced navigation and way finding app from Microsoft Research.
 
 ## Contributing
 
@@ -8,4 +8,4 @@ All help is welcome. Besides developing the actual iOS app, there is a need for 
 
 ## Getting in touch
 
-We have no communication channels yet, besides what's available under this Github organization. Please open an issue in the most appropriate repository to get in touch. We hope to have other channels soon for more informal chat and discussions surrounding the project.
+We have no communication channels yet, besides what's available under this GitHub organization. Please open an issue in the most appropriate repository to get in touch. We hope to have other channels soon for more informal chat and discussions surrounding the project.
