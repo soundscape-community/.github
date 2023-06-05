@@ -8,4 +8,4 @@ All help is welcome. Besides developing the actual iOS app, there is a need for 
 
 ## Getting in touch
 
-We have no communication channels yet, besides what's available under this GitHub organization. Please open an issue in the most appropriate repository to get in touch. We hope to have other channels soon for more informal chat and discussions surrounding the project.
+The community has a [Discord server](https://discord.gg/mqzFeAPu6A) for general chat, discussion, questions and tester feedback.
