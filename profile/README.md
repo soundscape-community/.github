@@ -8,4 +8,4 @@ All help is welcome. Besides developing the iOS app itself, there is a need for 
 
 ## Getting in touch
 
-The community has a [Discord server](https://discord.gg/mqzFeAPu6A) for general chat, discussion, questions and tester feedback.
+The community has a [Discord server](https://discord.gg/2UCc9yHmRh) for general chat, discussion, questions and tester feedback.
