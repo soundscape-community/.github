@@ -1,6 +1,6 @@
-# Openscape Community
+# Soundscape Community
 
-The Openscape Community seeks to continue the work on Soundscape, the open sourced navigation and way finding app from Microsoft Research.
+Soundscape Community (briefly known as Openscape) seeks to continue the work on Soundscape, the open sourced navigation and way finding app from Microsoft Research.
 
 ## Contributing
 
